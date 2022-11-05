@@ -6,6 +6,7 @@
         <entry key="app/src/main/res/drawable/enter_bottom_background.xml" value="0.22407407407407406" />
         <entry key="app/src/main/res/layout/activity_login_history.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.13804457953394123" />
+        <entry key="app/src/main/res/layout/activity_main_cl.xml" value="0.335" />
         <entry key="app/src/main/res/layout/login_history_item.xml" value="0.335" />
         <entry key="app/src/main/res/layout/progress_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17552083333333332" />
